@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AMC SD">
+    <display-name lang="pt">AMC SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Animal Planet SD">
+    <display-name lang="pt">Animal Planet SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN SD">
+    <display-name lang="pt">AXN SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Brasil HD ³">
+    <display-name lang="pt">Canal Brasil HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Brasil SD">
+    <display-name lang="pt">Canal Brasil SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax SD">
+    <display-name lang="pt">Cinemax SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Sony HD">
+    <display-name lang="pt">Canal Sony HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal Sony SD">
+    <display-name lang="pt">Canal Sony SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="FX SD">
+    <display-name lang="pt">FX SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix HD ³">
+    <display-name lang="pt">Megapix HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Megapix SD ³">
+    <display-name lang="pt">Megapix SD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Paramount Channel HD">
+    <display-name lang="pt">Paramount Channel HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Paramount Channel SD">
+    <display-name lang="pt">Paramount Channel SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Space SD ³">
+    <display-name lang="pt">Space SD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Studio Universal SD">
+    <display-name lang="pt">Studio Universal SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SyFy HD">
+    <display-name lang="pt">SyFy HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Syfy SD">
+    <display-name lang="pt">Syfy SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TBS HD ³">
+    <display-name lang="pt">TBS HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TBS SD">
+    <display-name lang="pt">TBS SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM HD">
+    <display-name lang="pt">TCM HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TCM SD">
+    <display-name lang="pt">TCM SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT HD ³">
+    <display-name lang="pt">TNT HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TNT SD">
+    <display-name lang="pt">TNT SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TNT Series HD">
+    <display-name lang="pt">TNT Series HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT Series SD">
+    <display-name lang="pt">TNT Series SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Universal TV HD">
+    <display-name lang="pt">Universal TV HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Universal TV SD">
+    <display-name lang="pt">Universal TV SD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Warner Channel HD">
+    <display-name lang="pt">Warner Channel HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Band Sports SD">
+    <display-name lang="pt">Band Sports SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Combate SD">
+    <display-name lang="pt">Combate SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Sports HD ³">
+    <display-name lang="pt">Fox Sports HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2 HD ³">
+    <display-name lang="pt">Fox Sports 2 HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Boomerang HD ³">
+    <display-name lang="pt">Boomerang HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Boomerang SD">
+    <display-name lang="pt">Boomerang SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney XD SD">
+    <display-name lang="pt">Disney XD SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="pt">Nickelodeon HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Nickelodeon SD">
+    <display-name lang="pt">Nickelodeon SD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD ³">
+    <display-name lang="pt">Telecine Premium HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD ³">
+    <display-name lang="pt">Telecine Action HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Touch HD ³">
+    <display-name lang="pt">Telecine Touch HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Fun HD ³">
+    <display-name lang="pt">Telecine Fun HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca HD ³">
+    <display-name lang="pt">Telecine Pipoca HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Telecine Cult HD ³">
+    <display-name lang="pt">Telecine Cult HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Mundi">
+    <display-name lang="pt">HBO Mundi</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Pop">
+    <display-name lang="pt">HBO Pop</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Xtreme">
+    <display-name lang="pt">HBO Xtreme</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO+">
+    <display-name lang="pt">HBO+</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Premiere Clubes HD">
+    <display-name lang="pt">Premiere Clubes HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere 2 HD">
+    <display-name lang="pt">Premiere 2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere 3 HD">
+    <display-name lang="pt">Premiere 3 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere 4 HD">
+    <display-name lang="pt">Premiere 4 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere 5 HD">
+    <display-name lang="pt">Premiere 5 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere 6 HD">
+    <display-name lang="pt">Premiere 6 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere 7 HD">
+    <display-name lang="pt">Premiere 7 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+</tv>
